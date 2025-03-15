@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Takimarui 👋
 
-<!--
-**Takimarui/Takimarui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi there! I'm a passionate **Game Developer** specializing in **Unity**, **C#**, and **.NET Framework** development. I focus on creating immersive and engaging experiences for players, whether it’s through desktop applications, mobile games, or other interactive platforms.
 
-Here are some ideas to get you started:
+## 🚀 Technologies & Tools:
+- **Languages**: C#, C++
+- **Game Engines**: Unity
+- **Tools**: Visual Studio, Git
+- **Frameworks**: .NET Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 You can find me at:
+- [Itch.io](https://takimarui.itch.io/)
+- [Twitter](https://x.com/Takimarui)
+- [Pixilart](https://www.pixilart.com/takimarui)
+- [Steam](https://steamcommunity.com/id/Takimarui)
+- [Email](mailto:takimarui.gamedev@gmail.com)
+
+## 💻 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takimarui&show_icons=true&theme=dark)
+
+## 💫 Let’s connect and create something amazing!
