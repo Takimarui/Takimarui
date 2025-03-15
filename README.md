@@ -11,5 +11,5 @@
 - [Twitter](https://x.com/Takimarui)
 - [Pixilart](https://www.pixilart.com/takimarui)
 - [Steam](https://steamcommunity.com/id/Takimarui)
-- 
+
 ## 💫 Let’s connect and create something amazing!
