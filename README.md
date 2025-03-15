@@ -16,7 +16,4 @@ Hi there! I'm a passionate **Game Developer** specializing in **Unity**, **C#**,
 - [Steam](https://steamcommunity.com/id/Takimarui)
 - [Email](mailto:takimarui.gamedev@gmail.com)
 
-## 💻 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Takimarui&show_icons=true&theme=dark)
-
 ## 💫 Let’s connect and create something amazing!
