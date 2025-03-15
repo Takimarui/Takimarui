@@ -4,7 +4,7 @@
 Hi there! I'm a passionate **Game Developer** specializing in **Unity**, **C#**, and **.NET Framework** development. I focus on creating immersive and engaging experiences for players, whether it’s through desktop applications, mobile games, or other interactive platforms.
 
 ## 🚀 Technologies & Tools:
-- **Languages**: C#, C++
+- **Languages**: C#
 - **Game Engines**: Unity
 - **Tools**: Visual Studio, Git
 - **Frameworks**: .NET Framework
