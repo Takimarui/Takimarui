@@ -1,4 +1,4 @@
-# Hi there, I'm Takimarui 👋
+# Hi there, I'm Takimarui 👋                                                                         ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Takimarui.Takimarui)
 
 ## 🚀 Technologies & Tools:
 - **Languages**: C#
